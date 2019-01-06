@@ -1,1 +1,1 @@
-"# SCSS-MixinChallange"
+# SCSS-MixinChallange
